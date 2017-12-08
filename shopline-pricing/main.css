@@ -1,0 +1,15 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.dark-background {
+  background: darksalmon;
+}
+
+.site-container {
+  max-width: 1140px;
+
+  /* 水平置中這個元素 */
+  margin-left: auto;
+  margin-right: auto;
+}
